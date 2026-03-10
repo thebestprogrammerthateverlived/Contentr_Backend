@@ -1,0 +1,7 @@
+videogenbackend/
+__pycache__/
+*.pyc
+.vscode/
+.env
+.env.*
+service-account.json
